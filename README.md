@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <head>
     <title>Joey's Meatballs</title>
@@ -28,7 +29,7 @@
 <body>
     <h1>What We Are</h1>
     <p1>We are a luxury meatball company from NYC, New York. We use the best products and meat to bring the <br> best quality meatballs to the US.</p1>
-    <!--<div class="wrapper"></div>-->
+   
     <hr />
     <pre>Swedish Meatballs                                                             Spicy Italian</pre>
     <img src="swedishmeatballs.jpg" alt="Swedish Meatballs" style="width:500px;height:500px;">           <img src="spicyitalian.jpg" alt="Spicy Italian" style="width:500px;height:500px;">
