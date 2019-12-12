@@ -1,3 +1,3 @@
 # HELPMELIVE
 
-https://thebetterjoe.github.io/helpmelive/index.html
+https://thebetterjoe.github.io/helpmelive
